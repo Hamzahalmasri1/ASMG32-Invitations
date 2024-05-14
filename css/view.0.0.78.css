@@ -538,7 +538,6 @@ body {
 #onetrust-consent-sdk #onetrust-banner-sdk a:hover {
   color: white;
 }
-
 [data-cy="defaultWatermark"] {
   display: none !important;
 }
